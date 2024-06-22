@@ -1,0 +1,9 @@
+{
+	"name": "dataalstom",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1b8ad63-2250-4b60-b1cd-4f4526cb2e87",
+		"tenantId": "34576a90-0553-4d07-9a0e-66b0d8d583f3"
+	}
+}
